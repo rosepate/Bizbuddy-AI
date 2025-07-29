@@ -3,7 +3,6 @@ import pandas as pd
 import os
 import sys
 from dotenv import load_dotenv
-from models import SalesRecord
 from pydantic import ValidationError
 
 # Initial setup
